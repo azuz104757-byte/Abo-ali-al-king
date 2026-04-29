@@ -10,7 +10,7 @@ local LocalPlayer = Players.LocalPlayer
 
 local AllowedIDs = {
     [10082742981] = true,
-    [8209937388] = true,
+    [9680871870] = true,
     [9896728704] = true,
     [10706037987] = true, 
     [9094759715] = true,
